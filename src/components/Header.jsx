@@ -5,7 +5,7 @@ export default function Header(){
     return (
         <div className="header--container">
             <div className="img--container">
-                <img src= "/src/assets/profilepic.jpg" alt='profile pic rk' /> 
+                <img src= "./src/assets/profilepic.JPG" alt='profile pic rk' /> 
                 </div>
              <div className='sub--container'>
               <div className='profile--name'>
@@ -22,10 +22,10 @@ export default function Header(){
              
                <div className = "btn--container">
                 <button className='email'>
-                    <a href = "mailto:rutvikk5@gmail.com>"><img src='/src/assets/email.svg' className='e-logo'/>  Email</a>
+                    <a href = "mailto:rutvikk5@gmail.com>"><img src='./src/assets/email.svg' className='e-logo'/>  Email</a>
                 </button>
                 <button className='linkedin'>
-                    <a href='https://www.linkedin.com/in/rutvikk05/' target={'_blank'}><img src='/src/assets/linkedin.svg' className='l-logo'/>  LinkedIn</a>
+                    <a href='https://www.linkedin.com/in/rutvikk05/' target={'_blank'}><img src='./src/assets/linkedin.svg' className='l-logo'/>  LinkedIn</a>
                 </button>
 
                 </div>  
