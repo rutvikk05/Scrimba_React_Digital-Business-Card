@@ -5,9 +5,9 @@ export default function Footer() {
         <div className="footer--container">
             <div className="footer--icons">
 
-           <a href="https://www.linkedin.com/in/rutvikk05/"><img src="./public/linkedin.svg" className="social-icon"/></a>
-              <a href="https://github.com/rutvikk05/"><img src="./public/github.svg" className="social-icon"/></a>
-                <a href="https://twitter.com/rutvikk05"><img src="./public/twitter.svg" className="social-icon"/></a> 
+           <a href="https://www.linkedin.com/in/rutvikk05/"><img src="./linkedin.svg" className="social-icon"/></a>
+              <a href="https://github.com/rutvikk05/"><img src="./github.svg" className="social-icon"/></a>
+                <a href="https://twitter.com/rutvikk05"><img src="./twitter.svg" className="social-icon"/></a> 
             </div>
         </div>
     )
