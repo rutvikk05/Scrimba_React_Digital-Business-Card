@@ -5,11 +5,7 @@ export default function Header(){
     return (
         <div className="header--container">
             <div className="img--container">
-<<<<<<< HEAD
-                <img src= "./public/profilepic.jpg" alt='profile pic rk' /> 
-=======
-                <img src= "./src/assets/profilepic.JPG" alt='profile pic rk' /> 
->>>>>>> 404478f87006ebf80aa5cdd964da648eb4c9ca1e
+                <img src= "./src/assets/profilepic.jpg" alt='profile pic rk' /> 
                 </div>
              <div className='sub--container'>
               <div className='profile--name'>
