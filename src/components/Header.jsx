@@ -22,10 +22,10 @@ export default function Header(){
              
                <div className = "btn--container">
                 <button className='email'>
-                    <a href = "mailto:rutvikk5@gmail.com>"><img src='./src/assets/email.svg' className='e-logo'/>  Email</a>
+                    <a href = "mailto:rutvikk5@gmail.com>"><img src='/src/assets/email.svg' className='e-logo'/>  Email</a>
                 </button>
                 <button className='linkedin'>
-                    <a href='https://www.linkedin.com/in/rutvikk05/' target={'_blank'}><img src='./src/assets/linkedin.svg' className='l-logo'/>  LinkedIn</a>
+                    <a href='https://www.linkedin.com/in/rutvikk05/' target={'_blank'}><img src='/src/assets/linkedin.svg' className='l-logo'/>  LinkedIn</a>
                 </button>
 
                 </div>  
